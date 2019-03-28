@@ -4,6 +4,7 @@ namespace PlatoCreative\Imgix;
 
 use SilverStripe\Control\Director;
 use SilverStripe\Assets\Image;
+use SilverStripe\Core\Convert;
 use Imgix\UrlBuilder;
 
 /**
